@@ -1,0 +1,285 @@
+body{
+    
+    width:100%;
+    overflow-x:hidden;
+    background-color:#2B2C2C;
+}
+
+.logo{
+    color:#FEB633;
+    font-size:40px;
+    position:absolute;
+    left:20%;
+    top:3%;
+
+}
+
+.navbar{
+    height:100px;
+    background-color:#33353a;
+    
+    
+}
+
+.links{
+    position:absolute;
+    right:10%;
+    top:5%;
+    
+    
+}
+
+a{
+    text-decoration: none;
+    color:#9F9F9F;
+    margin-left:20px;
+    
+
+}
+
+.photo{
+
+    position:absolute;
+    left:50%;
+    top:20%;
+
+}
+
+.first{
+    height:800px;
+    display:block;
+    background-color:#2B2C2C;
+}
+
+.first-left{
+    position:absolute;
+    left:20%;
+    top:40%;
+    height:200px;
+}
+
+.contact-me{
+    position:absolute;
+    border-style:solid;
+    border-color:#FEB633;
+    background-color:#2B2C2C;
+    color:#FEB633;
+    top:100%;
+    left:30%;
+    padding:30px 40px 30px 40px;
+    cursor:pointer;
+
+
+}
+
+.john{
+    color:#FEB633;
+}
+
+.text1, .text3{
+
+    color:grey;
+
+}
+
+.text1{
+    font-size:20px;
+}
+
+.text2{
+    color:white;
+    font-size:60px;
+}
+
+.text3{
+    font-size:35px;
+}
+
+.second{
+
+    background-color:#33353a;
+    min-height:500px;
+    display:block; 
+
+}
+
+.works{
+
+    position:absolute;
+    border-style:solid;
+    border-color:#FEB633;
+    background-color:#FEB633;
+    color:white;
+    top:123%;
+    left:55%;
+    padding:30px 40px 30px 40px;
+    cursor:pointer;
+    
+    
+}
+
+.cv{
+
+    position:absolute;
+    border-style:solid;
+    border-color:#FEB633;
+    background-color:#2B2C2C;
+    color:white;
+    top:123%;
+    left:65%;
+    padding:30px 40px 30px 40px;
+    cursor:pointer;
+    
+    
+}
+
+.about-photo{
+
+    position:absolute;
+    top:105%;
+    left:20%;
+    z-index:1;
+}
+
+.about-me{
+
+    position:absolute;
+    top:115%;
+    left:25%;
+    z-index:2;
+    font-size:50px;
+    color:#9F9F9F;
+
+}
+
+
+
+.second-right-text{
+    position:absolute;
+    left:50%;
+    top:110%;
+    overflow:hidden;
+    color: #9F9F9F;
+
+
+}
+
+.third{
+
+    height:1200px;
+    display:block;
+    background-color:#2B2C2C;
+
+}
+
+.services{
+
+    position:absolute;
+    color:white;
+    top:150%;
+    left:45%;
+    font-size:40px;
+    font-weight: bold;
+    border-bottom:solid;
+    border-color: #FEB633;
+    padding-bottom:20px;
+
+}
+
+.services-text{
+
+    position:absolute;
+    top:160%;
+    left:27%;
+    text-align:center;
+    color:#9F9F9F;
+    font-size:20px;
+
+    
+}
+
+.job{
+
+    width:500px;
+    height:350px;
+    background-color:purple;
+}
+
+.job-upper-left{
+
+    position:absolute;
+    top:175%;
+    left:21%;
+    background: rgba(36, 176, 254, 0.5);
+    border-radius:3%;
+    
+    
+
+}
+
+.job-upper-right{
+
+    position:absolute;
+    top:175%;
+    left:51%;
+    background: rgba(254, 187, 36,0.5);
+    border-radius:3%;
+   
+
+}
+
+.jobs-lower-left{
+
+    position:absolute;
+    top:220%;
+    left:21%;
+    background: rgba(214, 54, 208,0.5);
+    border-radius:3%;
+    
+
+
+}
+
+.jobs-lower-right{
+
+    position:absolute;
+    top:220%;
+    left:51%;
+    background: rgba(2, 204, 71, 0.5);
+    border-radius:3%;
+    
+
+
+}
+
+.ux-res,.app-design,.web-design,.web-development{
+    position:absolute;
+    top:45%;
+    color:white;
+    font-weight: bold;
+    font-size: 30px;
+    left:15%;
+}
+
+.duis1,.duis2,.duis3,.duis4{
+
+    position:absolute;
+    top:60%;
+    color:white;
+    font-size: 20px;;
+    left:15%;
+
+}
+
+.icon{
+
+    position:absolute;
+    top:10%;
+    left:15%;
+   
+   
+
+}
+
+
+
